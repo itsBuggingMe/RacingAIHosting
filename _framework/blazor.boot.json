@@ -1,7 +1,7 @@
 {
   "entryAssembly": "kniattpt7",
   "resources": {
-    "hash": "sha256-ClkcvJfmf0/hNpBRQCJSG0NjkkyAM8Xq9mVSSkELZOs=",
+    "hash": "sha256-RuHJTBZ9+NfoRSqcSsDeWbzn2ayTdf3YPV9oTCC3N3I=",
     "runtime": {
       "dotnet.js": "sha256-pu7MO47B6So4jcW6iY2UI11lBZYz2EQnJKiYNsOpNJg=",
       "dotnet.wasm": "sha256-tISvy4xFegogfGkIyyz9o/8bI+dPsrbp0/DIdANcHBI=",
@@ -206,7 +206,7 @@
       "mscorlib.dll": "sha256-FHccFgM8rcGOQ8oacA4eEgiiOynHayVKyd2ICq3Bo4w=",
       "netstandard.dll": "sha256-D91viTBgwuzeuIOx1KgBYnoY0hl2IpcBu/zr22Fu0BU=",
       "System.Private.CoreLib.dll": "sha256-5FbWgChEgLPlYByi8VsHTisbCpgMNSbf95JK5dVOs50=",
-      "kniattpt7.dll": "sha256-vaKDZ8HZicCvdUps3G9yHOJ0T/1Vkb2TOjRfPB5coLs="
+      "kniattpt7.dll": "sha256-rflNKRj/BgChoFg0hNMXIV6AHVQ4S3LIO3V8MGTBpoY="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
